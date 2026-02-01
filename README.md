@@ -11,7 +11,7 @@ I design and simulate intelligent systems that connect **sensing, perception, an
 **Autonomous Indoor Drone Navigation**  
 ROS-based autonomous navigation stack using PX4, VINS-Fusion, and motion planning for indoor environments.  
 **Tech:** ROS, PX4, C++, Python, RealSense  
-🔗 https://github.com/ArunarkSingh/DRONE_REPO_NAME
+🔗 https://github.com/ArunarkSingh/Autonomous_Inspection_Drone_ICON.git
 
 ---
 
