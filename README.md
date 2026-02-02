@@ -19,6 +19,12 @@ Extended PixelCNN++ with early fusion and FiLM-based middle fusion to enable cla
 **Tech:** PyTorch, PixelCNN++, FiLM, Python, Weights & Biases  
 🔗 https://github.com/ArunarkSingh/Conditional_PixelCNN-Plus.git
 
+### 🧠 Machine Learning & Data Science  
+**Credit Card Fraud Detection (Imbalanced Classification)**  
+Built a validation-tuned fraud detection pipeline under extreme class imbalance, prioritizing recall using precision–recall analysis and threshold optimization.  
+**Tech:** Python, scikit-learn, Logistic Regression, PR/ROC Analysis 
+🔗 https://github.com/ArunarkSingh/Conditional_PixelCNN-Plus.git
+
 
 ---
 
