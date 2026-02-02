@@ -13,6 +13,13 @@ ROS-based autonomous navigation stack using PX4, VINS-Fusion, FUEL navigation, a
 **Tech:** ROS, PX4, C++, Python, RealSense  
 🔗 https://github.com/ArunarkSingh/Autonomous_Inspection_Drone_ICON.git
 
+### 🧠 Machine Learning and Deep Learning
+**Conditional PixelCNN++ (Generation + Zero-Shot Classification)**  
+Extended PixelCNN++ with early fusion and FiLM-based middle fusion to enable class-conditional image generation and likelihood-based (zero-shot) classification; best model achieved **FID 28** and **74% validation accuracy**.  
+**Tech:** PyTorch, PixelCNN++, FiLM, Python, Weights & Biases  
+🔗 https://github.com/ArunarkSingh/Conditional_PixelCNN-Plus.git
+
+
 ---
 
 ### 🧠 Areas of Interest
