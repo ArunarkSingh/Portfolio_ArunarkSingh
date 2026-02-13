@@ -8,19 +8,19 @@ I design and simulate intelligent systems that connect **sensing, perception, an
 ## ⚙️ Projects
 
 ### 🚀 Autonomous Robotics
-** 1. Autonomous Indoor Drone Navigation**  
+# 1. Autonomous Indoor Drone Navigation
 ROS-based autonomous navigation stack using PX4, VINS-Fusion, FUEL navigation, and motion planning for indoor environments.  
 **Tech:** ROS, PX4, C++, Python, RealSense  
 🔗 https://github.com/ArunarkSingh/Autonomous_Inspection_Drone_ICON.git
 
 ### 🤖 Deep Learning & Generative Models
-** 1. Conditional PixelCNN++ (Generation + Zero-Shot Classification)**  
+# 1. Conditional PixelCNN++ (Generation + Zero-Shot Classification) 
 Extended PixelCNN++ with early fusion and FiLM-based middle fusion to enable class-conditional image generation and likelihood-based (zero-shot) classification; best model achieved **FID 28** and **74% validation accuracy**.  
 **Tech:** PyTorch, PixelCNN++, FiLM, Python, Weights & Biases  
 🔗 https://github.com/ArunarkSingh/Conditional_PixelCNN-Plus.git
 
 ### 🧠 Machine Learning & Data Science  
-** 1. Credit Card Fraud Detection (Imbalanced Classification)**  
+# 1. Credit Card Fraud Detection (Imbalanced Classification) 
 Built a validation-tuned fraud detection pipeline under extreme class imbalance, prioritizing recall using precision–recall analysis and threshold optimization.  
 **Tech:** Python, scikit-learn, Logistic Regression, PR/ROC Analysis 
 🔗 https://github.com/ArunarkSingh/CreditCard_Fraud_Detection_Imbalanced_ML.git
