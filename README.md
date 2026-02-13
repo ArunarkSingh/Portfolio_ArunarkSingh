@@ -8,7 +8,7 @@ I design and simulate intelligent systems that connect **sensing, perception, an
 ## ⚙️ Projects
 
 ## 🚀 Autonomous Robotics
-### 1. Autonomous Indoor Drone Navigation
+### 1. Autonomous Indoor Drone Navigation for 3D Reconstruction
 ROS-based autonomous navigation stack using PX4, VINS-Fusion, FUEL navigation, and motion planning for indoor environments.  
 **Tech:** ROS, PX4, C++, Python, RealSense  
 🔗 https://github.com/ArunarkSingh/Autonomous_Inspection_Drone_ICON.git
