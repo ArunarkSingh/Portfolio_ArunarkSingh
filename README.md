@@ -25,6 +25,12 @@ Built a validation-tuned fraud detection pipeline under extreme class imbalance,
 **Tech:** Python, scikit-learn, Logistic Regression, PR/ROC Analysis 
 🔗 https://github.com/ArunarkSingh/CreditCard_Fraud_Detection_Imbalanced_ML.git
 
+### 2. Fake News Detection with Pretrained Transformers (LIAR Dataset)  
+Fine-tuned RoBERTa-base on the LIAR fact-checking dataset (~12k political statements), achieving **60.5% test accuracy (macro-F1 0.587)** on binary classification and **29.4% accuracy (macro-F1 0.297)** on the original 6-class task.  
+Developed a FastAPI inference service and generated ROC/PR curves, confusion matrices, and per-class F1 visualizations for evaluation.  
+**Tech:** Python, PyTorch, HuggingFace Transformers, RoBERTa, FastAPI, scikit-learn
+🔗 https://github.com/ArunarkSingh/Fake-News-Detection-Roberta.git
+
 
 ---
 
