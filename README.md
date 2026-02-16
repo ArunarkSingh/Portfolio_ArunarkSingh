@@ -30,18 +30,22 @@ Extended PixelCNN++ with early fusion and FiLM-based middle fusion to enable cla
 
 ## 🧠 Machine Learning & Data Science  
 
-### 1. Credit Card Fraud Detection (Imbalanced Classification) 
+### 1. Customer Churn Prediction (Business-Aware ML Pipeline)
+Built an end-to-end churn prediction system using Logistic Regression and XGBoost, optimizing decision thresholds to maximize expected business retention value under class imbalance. Implemented ROC/PR evaluation, SHAP explainability, and deployed a FastAPI inference service.
+**Tech:** Python, scikit-learn, XGBoost, SHAP, FastAPI 
+
+🔗 https://github.com/ArunarkSingh/Customer-Churn-Prediction-Business-ML.git
+
+### 2. Credit Card Fraud Detection (Imbalanced Classification) 
 Built a validation-tuned fraud detection pipeline under extreme class imbalance, prioritizing recall using precision–recall analysis and threshold optimization.  
 **Tech:** Python, scikit-learn, Logistic Regression, PR/ROC Analysis 
 
-
 🔗 https://github.com/ArunarkSingh/CreditCard_Fraud_Detection_Imbalanced_ML.git
 
-### 2. Fake News Detection with Pretrained Transformers (LIAR Dataset)
+### 3. Fake News Detection with Pretrained Transformers (LIAR Dataset)
 Fine-tuned RoBERTa-base on the LIAR fact-checking dataset (~12k political statements), achieving **60.5% test accuracy (macro-F1 0.587)** on binary classification and **29.4% accuracy (macro-F1 0.297)** on the original 6-class task.  
 Developed a FastAPI inference service and generated ROC/PR curves, confusion matrices, and per-class F1 visualizations for evaluation.  
 **Tech:** Python, PyTorch, HuggingFace Transformers, RoBERTa, FastAPI, scikit-learn
-
 
 🔗 https://github.com/ArunarkSingh/Fake-News-Detection-Roberta.git
 
