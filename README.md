@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arunark Singh
 
-I'm an Electrical Engineering student at UBC, specializing in **Robotics, AI, and MEMS systems**.  
-I design and simulate intelligent systems that connect **sensing, perception, and control** —> from autonomous drones to micro-scale sensors.
+Electrical Engineer (UBC) focused on **Robotics, Machine Learning, and MEMS system design**.
+I develop end-to-end intelligent systems that integrate sensing, perception, and control —> spanning autonomous drone pipelines, FPGA/embedded systems, and micro-scale sensor architectures.
 
 ---
 
